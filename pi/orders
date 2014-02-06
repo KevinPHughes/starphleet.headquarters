@@ -1,0 +1,5 @@
+export PORT=3000
+export REPLICA_UID="svcsolrreplicas"
+export REPLICA_PWD="s0lrr3Pl!c@3"
+export REPLICA_OF="http://38.67.4.198:8181"
+autodeploy https://github.com/glg/pi.git#ec2
